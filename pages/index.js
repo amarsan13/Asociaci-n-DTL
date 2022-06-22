@@ -18,6 +18,7 @@ export default function Home() {
           <a href="https://t.me/+7XRSUgEwbkFjZDY0"><b>Unirme al grupo de Telegram</b></a>
           <a href="https://p.berrly.com/ASODTL/registration/2594?lang=es"><b>Ir al formulario de inscripción</b></a>
           <a href="https://vimeo.com/717051965"><b>Ver vídeo explicativo de la zona privada de socios</b></a>
+        </p>
       </main>
 
       <Footer />
