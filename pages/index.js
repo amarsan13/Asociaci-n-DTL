@@ -15,9 +15,7 @@ export default function Home() {
         <p className="description">
           Si estás interesad@ en asociarte, pero antes te gustaría informarte más, os dejamos algunos enlaces de interés.
         </p>
-      </main>
-    
-      <div style="border:thin;border:2px solid black;border-radius:10px;border-color:#4B4B4B;padding:30px;background-color:#E9E9E9">
+        <div style="border:thin;border:2px solid black;border-radius:10px;border-color:#4B4B4B;padding:30px;background-color:#E9E9E9">
         <div>
           <a href="https://mega.nz/file/cWN0XTrD#tguPI2SfdA09VsyoVITNMjVp1xHJQn6nnP-We7ipVXQ" style="display:inline-block;background:#FFD14C;color:black;font-family:Helvetica;font-size:13px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;" target="_blank"><b>Ver Estatutos</b></a>
           <a href="https://t.me/+7XRSUgEwbkFjZDY0" style="display:inline-block;background:#FFD14C;color:black;font-family:Helvetica;font-size:13px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;" target="_blank"><b>Unirme al grupo de Telegram</b></a>
@@ -29,6 +27,7 @@ export default function Home() {
           <a href="https://vimeo.com/717051965" style="display:inline-block;background:#FFD14C;color:black;font-family:Helvetica;font-size:13px;font-weight:normal;line-height:120%;margin:0;text-decoration:none;text-transform:none;padding:10px 25px;mso-padding-alt:0px;border-radius:3px;" target="_blank"><b>Ver vídeo explicativo de la zona privada de socios</b></a>
         </div>
       </div>
+      </main>
 
       <Footer />
     </div>
